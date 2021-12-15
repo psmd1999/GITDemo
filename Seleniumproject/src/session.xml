@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="flase" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Seleniumpac.TestNGSession"/>
+      <class name="Seleniumpac.TestNGSession2"/>
+      <class name="Seleniumpac.TestNGSession3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
